@@ -6,6 +6,7 @@
                 "isAvailable": true,
                 "isLock": false
             },
+            "startNoteID": 0,
             "bpm": 120,
             "kickPerBeat": 4,
             "swing": 0,
@@ -50,6 +51,7 @@
                 "isAvailable": true,
                 "isLock": false
             },
+            "startNoteID": 3,
             "bpm": 120,
             "kickPerBeat": 4,
             "swing": 0.25,
@@ -94,6 +96,7 @@
                 "isAvailable": true,
                 "isLock": false
             },
+            "startNoteID": 7,
             "bpm": 145,
             "kickPerBeat": 2,
             "swing": 0.5,
@@ -138,6 +141,7 @@
                 "isAvailable": true,
                 "isLock": true
             },
+            "startNoteID": 7,
             "bpm": 110,
             "kickPerBeat": 2,
             "swing": 0.4000000059604645,
@@ -182,6 +186,7 @@
                 "isAvailable": true,
                 "isLock": true
             },
+            "startNoteID": 5,
             "bpm": 140,
             "kickPerBeat": 4,
             "swing": 0.15000000596046448,
@@ -226,6 +231,7 @@
                 "isAvailable": true,
                 "isLock": true
             },
+            "startNoteID": 0,
             "bpm": 120,
             "kickPerBeat": 4,
             "swing": 0,
@@ -302,7 +308,8 @@
                 "isAvailable": true,
                 "isLock": true
             },
-            "bpm": 124,
+            "startNoteID": 5,
+            "bpm": 120,
             "kickPerBeat": 4,
             "swing": 0,
             "arpItems": [
@@ -378,9 +385,10 @@
                 "isAvailable": true,
                 "isLock": true
             },
-            "bpm": 100,
-            "kickPerBeat": 8,
-            "swing": 0.15000000596046448,
+            "startNoteID": 0,
+            "bpm": 120,
+            "kickPerBeat": 4,
+            "swing": 0,
             "arpItems": [
                 {
                     "arpItemName": "Item 1",
@@ -454,9 +462,10 @@
                 "isAvailable": true,
                 "isLock": true
             },
-            "bpm": 144,
+            "startNoteID": 4,
+            "bpm": 120,
             "kickPerBeat": 4,
-            "swing": 0.25,
+            "swing": 0,
             "arpItems": [
                 {
                     "arpItemName": "Item 1",
@@ -527,11 +536,12 @@
         {
             "arpPresetName": "Waltz",
             "availableState": {
-                "isAvailable": false,
+                "isAvailable": true,
                 "isLock": true
             },
-            "bpm": 82,
-            "kickPerBeat": 3,
+            "startNoteID": 0,
+            "bpm": 120,
+            "kickPerBeat": 4,
             "swing": 0,
             "arpItems": [
                 {
@@ -603,10 +613,11 @@
         {
             "arpPresetName": "Slowly",
             "availableState": {
-                "isAvailable": false,
+                "isAvailable": true,
                 "isLock": true
             },
-            "bpm": 110,
+            "startNoteID": 0,
+            "bpm": 120,
             "kickPerBeat": 4,
             "swing": 0,
             "arpItems": [
