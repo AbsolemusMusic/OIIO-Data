@@ -299,8 +299,8 @@
         {
             "arpPresetName": "Fiber",
             "availableState": {
-                "isAvailable": false,
-                "isLock": false
+                "isAvailable": true,
+                "isLock": true
             },
             "bpm": 120,
             "kickPerBeat": 4,
@@ -375,8 +375,8 @@
         {
             "arpPresetName": "Moon",
             "availableState": {
-                "isAvailable": false,
-                "isLock": false
+                "isAvailable": true,
+                "isLock": true
             },
             "bpm": 120,
             "kickPerBeat": 4,
@@ -451,8 +451,8 @@
         {
             "arpPresetName": "Swift",
             "availableState": {
-                "isAvailable": false,
-                "isLock": false
+                "isAvailable": true,
+                "isLock": true
             },
             "bpm": 120,
             "kickPerBeat": 4,
@@ -527,8 +527,8 @@
         {
             "arpPresetName": "Waltz",
             "availableState": {
-                "isAvailable": false,
-                "isLock": false
+                "isAvailable": true,
+                "isLock": true
             },
             "bpm": 120,
             "kickPerBeat": 4,
@@ -603,8 +603,8 @@
         {
             "arpPresetName": "Slowly",
             "availableState": {
-                "isAvailable": false,
-                "isLock": false
+                "isAvailable": true,
+                "isLock": true
             },
             "bpm": 120,
             "kickPerBeat": 4,
