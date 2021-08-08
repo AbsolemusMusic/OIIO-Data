@@ -1,0 +1,276 @@
+{
+  "arpPresets": [
+    {
+      "arpPresetName": "Empty Circle",
+      "bpm": 120,
+      "kickPerBeat": 4,
+      "swing": 0.0,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 1.0,
+          "speedMainValue": 1.0,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arpPresetName": "Pop Star",
+      "bpm": 120,
+      "kickPerBeat": 4,
+      "swing": 0.25,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 1.0,
+          "speedMainValue": 1.0,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.12752392888069154,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arpPresetName": "Vortex",
+      "bpm": 145,
+      "kickPerBeat": 2,
+      "swing": 0.5,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 0.9054197669029236,
+          "speedMainValue": 0.800000011920929,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.3347502648830414,
+              "speedValue": 0.5515409708023071,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.50690758228302,
+              "speedValue": 0.14984062314033509,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arpPresetName": "Dance With Me",
+      "bpm": 110,
+      "kickPerBeat": 2,
+      "swing": 0.4000000059604645,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 0.9054197669029236,
+          "speedMainValue": 0.6000000238418579,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.3347502648830414,
+              "speedValue": 0.9330499768257141,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.8161530494689941,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arpPresetName": "Lonely Dolphin",
+      "bpm": 140,
+      "kickPerBeat": 4,
+      "swing": 0.15000000596046449,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 0.5526036024093628,
+          "speedMainValue": 0.6078640222549439,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.3347502648830414,
+              "speedValue": 0.9330499768257141,
+              "phaseValue": 0.2412327378988266
+            },
+            {
+              "radiusValue": 0.8161530494689941,
+              "speedValue": 0.23591923713684083,
+              "phaseValue": 0.5366631746292114
+            },
+            {
+              "radiusValue": 0.3857598304748535,
+              "speedValue": 0.2784271836280823,
+              "phaseValue": 0.20828907191753388
+            },
+            {
+              "radiusValue": 0.4431455731391907,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arpPresetName": "Together With You",
+      "bpm": 120,
+      "kickPerBeat": 4,
+      "swing": 0.0,
+      "arpItems": [
+        {
+          "arpItemName": "Item 1",
+          "radiusMainValue": 1.0,
+          "speedMainValue": 0.75,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        },
+        {
+          "arpItemName": "Item 2",
+          "radiusMainValue": 1.0,
+          "speedMainValue": 0.75,
+          "arpItemJoints": [
+            {
+              "radiusValue": 0.5,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            },
+            {
+              "radiusValue": 0.0,
+              "speedValue": 0.0,
+              "phaseValue": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
