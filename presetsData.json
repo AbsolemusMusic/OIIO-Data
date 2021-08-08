@@ -1,7 +1,7 @@
 {
     "arpPresets": [
         {
-            "arpPresetName": "Empty 1",
+            "arpPresetName": "Empty Circle",
             "availableState": {
                 "isAvailable": true,
                 "isLock": false
@@ -536,7 +536,7 @@
         {
             "arpPresetName": "Waltz",
             "availableState": {
-                "isAvailable": true,
+                "isAvailable": false,
                 "isLock": true
             },
             "startNoteID": 0,
@@ -613,7 +613,7 @@
         {
             "arpPresetName": "Slowly",
             "availableState": {
-                "isAvailable": true,
+                "isAvailable": false,
                 "isLock": true
             },
             "startNoteID": 0,
