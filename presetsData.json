@@ -536,7 +536,7 @@
         {
             "arpPresetName": "Waltz",
             "availableState": {
-                "isAvailable": false,
+                "isAvailable": true,
                 "isLock": true
             },
             "startNoteID": 0,
@@ -613,7 +613,7 @@
         {
             "arpPresetName": "Slowly",
             "availableState": {
-                "isAvailable": false,
+                "isAvailable": true,
                 "isLock": true
             },
             "startNoteID": 0,
@@ -682,6 +682,469 @@
                             "radiusValue": 0.5718563199043274,
                             "speedValue": 0.38742512464523315,
                             "phaseValue": 0.19221557676792145
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arpPresetName": "Trio",
+            "availableState": {
+                "isAvailable": true,
+                "isLock": true
+            },
+            "startNoteID": 5,
+            "bpm": 100,
+            "kickPerBeat": 4,
+            "swing": 0.25,
+            "arpItems": [
+                {
+                    "arpItemName": "Item 1",
+                    "radiusMainValue": 0.5,
+                    "speedMainValue": 0.25,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.275,
+                            "speedValue": 0.5,
+                            "phaseValue": 0.25
+                        },
+                        {
+                            "radiusValue": 0.33,
+                            "speedValue": 0.45,
+                            "phaseValue": 0.15
+                        },
+                        {
+                            "radiusValue": 0.66,
+                            "speedValue": 0.4,
+                            "phaseValue": 0.75
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 2",
+                    "radiusMainValue": 0.75,
+                    "speedMainValue": 0.2,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.19
+                        },
+                        {
+                            "radiusValue": 0.58,
+                            "speedValue": 0.05,
+                            "phaseValue": 0.29
+                        },
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.5,
+                            "phaseValue": 0
+                        },
+                        {
+                            "radiusValue": 0.8,
+                            "speedValue": 0.4,
+                            "phaseValue": 0
+                        },
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.1,
+                            "phaseValue": 0.9
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 3",
+                    "radiusMainValue": 0.6,
+                    "speedMainValue": 0.35,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.55,
+                            "speedValue": 0.25,
+                            "phaseValue": 0.2
+                        },
+                        {
+                            "radiusValue": 0.2,
+                            "speedValue": 0.08,
+                            "phaseValue": 0.225
+                        },
+                        {
+                            "radiusValue": 0.18,
+                            "speedValue": 0.88,
+                            "phaseValue": 0.15
+                        },
+                        {
+                            "radiusValue": 0.8,
+                            "speedValue": 0.7,
+                            "phaseValue": 0.7
+                        },
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.45,
+                            "phaseValue": 0.35
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arpPresetName": "Glory",
+            "availableState": {
+                "isAvailable": true,
+                "isLock": true
+            },
+            "startNoteID": 3,
+            "bpm": 150,
+            "kickPerBeat": 8,
+            "swing": 0,
+            "arpItems": [
+                {
+                    "arpItemName": "Item 1",
+                    "radiusMainValue": 1,
+                    "speedMainValue": 0.75,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.1,
+                            "speedValue": 0.1,
+                            "phaseValue": 0.1
+                        },
+                        {
+                            "radiusValue": 0.2,
+                            "speedValue": 0.2,
+                            "phaseValue": 0.2
+                        },
+                        {
+                            "radiusValue": 0.3,
+                            "speedValue": 0.3,
+                            "phaseValue": 0.3
+                        },
+                        {
+                            "radiusValue": 0.4,
+                            "speedValue": 0.4,
+                            "phaseValue": 0.4
+                        },
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.5,
+                            "phaseValue": 0.5
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 2",
+                    "radiusMainValue": 0.9335330128669739,
+                    "speedMainValue": 0.2008981704711914,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.6
+                        },
+                        {
+                            "radiusValue": 0.7,
+                            "speedValue": 0.7,
+                            "phaseValue": 0.7
+                        },
+                        {
+                            "radiusValue": 0.8,
+                            "speedValue": 0.8,
+                            "phaseValue": 0.8
+                        },
+                        {
+                            "radiusValue": 0.9,
+                            "speedValue": 0.9,
+                            "phaseValue": 0.9
+                        },
+                        {
+                            "radiusValue": 0.75,
+                            "speedValue": 0.1,
+                            "phaseValue": 0.0
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 3",
+                    "radiusMainValue": 0.9335330128669739,
+                    "speedMainValue": 0.2008981704711914,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.8,
+                            "speedValue": 0.0,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.1,
+                            "speedValue": 0.1,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.2,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.7,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.75,
+                            "speedValue": 0.3,
+                            "phaseValue": 0.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arpPresetName": "Aspha",
+            "availableState": {
+                "isAvailable": true,
+                "isLock": true
+            },
+            "startNoteID": 9,
+            "bpm": 80,
+            "kickPerBeat": 6,
+            "swing": 0,
+            "arpItems": [
+                {
+                    "arpItemName": "Item 1",
+                    "radiusMainValue": 1,
+                    "speedMainValue": 0.8,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.25,
+                            "speedValue": 0.3,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.2,
+                            "speedValue": 0.4,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.8,
+                            "speedValue": 0.2,
+                            "phaseValue": 0.0
+                        },
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.1,
+                            "phaseValue": 0.5
+                        },
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.5,
+                            "phaseValue": 0.5
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 2",
+                    "radiusMainValue": 0.9,
+                    "speedMainValue": 0.4,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.65,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.1
+                        },
+                        {
+                            "radiusValue": 0.45,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.9
+                        },
+                        {
+                            "radiusValue": 0.59,
+                            "speedValue": 0.41,
+                            "phaseValue": 0.59
+                        },
+                        {
+                            "radiusValue": 0.96,
+                            "speedValue": 0.97,
+                            "phaseValue": 0.85
+                        },
+                        {
+                            "radiusValue": 0.04,
+                            "speedValue": 0.43,
+                            "phaseValue": 0.76
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arpPresetName": "Loko Okko",
+            "availableState": {
+                "isAvailable": true,
+                "isLock": true
+            },
+            "startNoteID": 0,
+            "bpm": 160,
+            "kickPerBeat": 3,
+            "swing": 0,
+            "arpItems": [
+                {
+                    "arpItemName": "Item 1",
+                    "radiusMainValue": 1,
+                    "speedMainValue": 0.125,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.15,
+                            "speedValue": 0.77,
+                            "phaseValue": 0.44
+                        },
+                        {
+                            "radiusValue": 0.19,
+                            "speedValue": 0.51,
+                            "phaseValue": 0.21
+                        },
+                        {
+                            "radiusValue": 0.51,
+                            "speedValue": 0.71,
+                            "phaseValue": 0.35
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 2",
+                    "radiusMainValue": 0.99,
+                    "speedMainValue": 0.2,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.17
+                        },
+                        {
+                            "radiusValue": 0.47,
+                            "speedValue": 0.16,
+                            "phaseValue": 0.79
+                        },
+                        {
+                            "radiusValue": 0.9,
+                            "speedValue": 0.5,
+                            "phaseValue": 0.28
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arpPresetName": "Generation Z",
+            "availableState": {
+                "isAvailable": true,
+                "isLock": true
+            },
+            "startNoteID": 6,
+            "bpm": 100,
+            "kickPerBeat": 4,
+            "swing": 0,
+            "arpItems": [
+                {
+                    "arpItemName": "Item 1",
+                    "radiusMainValue": 0.25,
+                    "speedMainValue": 0.5,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.115,
+                            "speedValue": 0.777,
+                            "phaseValue": 0.448
+                        },
+                        {
+                            "radiusValue": 0.192,
+                            "speedValue": 0.178,
+                            "phaseValue": 0.898
+                        },
+                        {
+                            "radiusValue": 0.612,
+                            "speedValue": 0.671,
+                            "phaseValue": 0.715
+                        },
+                        {
+                            "radiusValue": 0.188,
+                            "speedValue": 0.430,
+                            "phaseValue": 0.178
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 2",
+                    "radiusMainValue": 0.45,
+                    "speedMainValue": 0.33,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.555,
+                            "speedValue": 0.274,
+                            "phaseValue": 0.1
+                        },
+                        {
+                            "radiusValue": 0.37,
+                            "speedValue": 0.28,
+                            "phaseValue": 0.29
+                        },
+                        {
+                            "radiusValue": 0.90,
+                            "speedValue": 0.49,
+                            "phaseValue": 0.69
+                        },
+                        {
+                            "radiusValue": 0.59,
+                            "speedValue": 0.20,
+                            "phaseValue": 0.55
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 3",
+                    "radiusMainValue": 0.666,
+                    "speedMainValue": 0.066,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.6666,
+                            "speedValue": 0.6666,
+                            "phaseValue": 0.6666
+                        },
+                        {
+                            "radiusValue": 0.666,
+                            "speedValue": 0.666,
+                            "phaseValue": 0.666
+                        },
+                        {
+                            "radiusValue": 0.66,
+                            "speedValue": 0.66,
+                            "phaseValue": 0.66
+                        },
+                        {
+                            "radiusValue": 0.6,
+                            "speedValue": 0.6,
+                            "phaseValue": 0.6
+                        }
+                    ]
+                },
+                {
+                    "arpItemName": "Item 4",
+                    "radiusMainValue": 0.357,
+                    "speedMainValue": 0.45,
+                    "arpItemJoints": [
+                        {
+                            "radiusValue": 0.5,
+                            "speedValue": 0.608,
+                            "phaseValue": 0.431
+                        },
+                        {
+                            "radiusValue": 0.58,
+                            "speedValue": 0.16,
+                            "phaseValue": 0.79
+                        },
+                        {
+                            "radiusValue": 0.051,
+                            "speedValue": 0.03,
+                            "phaseValue": 0.59
+                        },
+                        {
+                            "radiusValue": 0.59,
+                            "speedValue": 0.97,
+                            "phaseValue": 0.32
                         }
                     ]
                 }
